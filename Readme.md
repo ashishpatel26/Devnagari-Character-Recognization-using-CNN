@@ -1,5 +1,6 @@
 
-
+# Devnagari-Character-Recognization-using-CNN
+[Dataset Download From this link](https://www.kaggle.com/rishianand/devanagari-character-set)
 ```python
 # This Python 3 environment comes with many helpful analytics libraries installed
 # It is defined by the kaggle/python docker image: https://github.com/kaggle/docker-python
